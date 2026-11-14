@@ -43,4 +43,4 @@ After each operation run:
 SELECT * FROM students ORDER BY student_id;
 
 
-Demonstration video link: 
+Demonstration video link: https://youtu.be/SUl9ru5BaTk
